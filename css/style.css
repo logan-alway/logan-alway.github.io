@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+ul {
+  list-style-type: circle;
+}
